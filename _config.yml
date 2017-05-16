@@ -1,0 +1,35 @@
+title: Red Data Tools
+markdown: kramdown
+highlighter: rouge
+copyright_year: 2017
+exclude:
+  - "README.md"
+  - "Rakefile"
+  - "Gemfile"
+  - "Gemfile.lock"
+description:
+  en: Use Ruby for data processing for fun!
+  ja: Rubyで楽しくデータ処理！
+
+kramdown:
+  input: GFM
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+
+sass:
+  sass_dir: assets/stylesheets
+
+defaults:
+  - scope:
+      path: "ja"
+    values:
+      path_prefix: /ja/
+      layout: "base"
+      language: ja
+      country: JP
+  - scope:
+      path: ""
+    values:
+      path_prefix: /
+      layout: "base"
+      language: en
+      country: US

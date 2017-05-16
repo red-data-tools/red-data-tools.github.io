@@ -1,0 +1,75 @@
+---
+---
+
+@import "bootstrap";
+
+#navigation-bar {
+    @extend .container;
+
+    nav {
+        @extend .navbar;
+        @extend .navbar-light;
+        @extend .navbar-toggleable-md;
+        @extend .bg-faded;
+
+        > button {
+            @extend .navbar-toggler;
+            @extend .navbar-toggler-right;
+
+            > span {
+                @extend .navbar-toggler-icon;
+            }
+        }
+
+        > a {
+            @extend .navbar-brand;
+        }
+
+        #navigation-bar-content {
+            @extend .collapse;
+            @extend .navbar-collapse;
+
+            > ul {
+                @extend .navbar-nav;
+                @extend .mr-auto;
+
+                li {
+                    @extend .nav-item;
+
+                    a {
+                        @extend .nav-link;
+                    }
+                }
+            }
+        }
+    }
+}
+
+ul.other-languages {
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+ul.other-languages li {
+  display: inline-block;
+}
+
+ul.other-languages li:after {
+  content: " | ";
+}
+
+ul.other-languages li:last-child:after {
+  content: "";
+}
+
+table {
+  @extend .table;
+  @extend .table-striped;
+  @extend .table-bordered;
+
+  td.note {
+    @extend .text-center;
+  }
+}

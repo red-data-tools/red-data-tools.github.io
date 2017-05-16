@@ -1,0 +1,33 @@
+<div id="navigation-bar">
+  <nav>
+    <button type="button"
+            data-toggle="collapse"
+            data-target="#navigation-bar-content"
+            aria-controls="navigation-bar-content"
+            aria-expanded="false"
+            aria-label="Toggle navigation">
+      <span></span>
+    </button>
+    <a href="/">{{ site.title }}</a>
+
+    <div id="navigation-bar-content">
+      <ul>
+        <li><a href="/ja/{{ relative_path }}">日本語</a></li>
+        {% if page.upper_level != null %}
+          <li><a href="{{ page.upper_level }}"><i class="fa fa-arrow-circle-up"></i> Up one level</a></li>
+        {% elsif relative_path != "" %}
+          {% capture last_component %}{{ page.url | split:"/" | last }}{% endcapture %}
+          {% if last_component == "index.html" %}
+            {% assign upper_level = "../" %}
+          {% else %}
+            {% assign upper_level = "./" %}
+          {% endif %}
+          <li><a href="{{ upper_level }}"><i class="fa fa-arrow-circle-up"></i> Up one level</a></li>
+        {% endif %}
+        <li>
+          <a href="https://github.com/red-data-tools/red-data-tools"><i class="fa fa-github"></i> GitHub</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</div>
