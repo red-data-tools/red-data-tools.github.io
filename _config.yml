@@ -8,8 +8,8 @@ exclude:
   - "Gemfile"
   - "Gemfile.lock"
 description:
-  en: Use Ruby for data processing for fun!
-  ja: Rubyで楽しくデータ処理！
+  en: "Data processing with Ruby!"
+  ja: "Rubyでデータ処理！"
 
 kramdown:
   input: GFM
