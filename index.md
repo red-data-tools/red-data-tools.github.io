@@ -27,7 +27,7 @@ Our policies:
 
   4. The current lack of knowledge isn't matter
 
-    * We may need knowledge about mathematics, statistics, linear algebras and so on to implement fast tools. But we don't require them when someone joins us. Because we can learn about them while we work. We can use existing fast implementations and learn from existing fast implementations.
+     * We may need knowledge about mathematics, statistics, linear algebras and so on to implement fast tools. But we don't require them when someone joins us. Because we can learn about them while we work. We can use existing fast implementations and learn from existing fast implementations.
 
   5. Ignore blames from outsiders
 
