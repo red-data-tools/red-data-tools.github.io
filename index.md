@@ -13,25 +13,25 @@ Red Data Tools is a project that provides data processing tools for Ruby.
 
 Our policies:
 
-  1. Collaborate over Ruby community
+  1. Collaborate across the Ruby community
 
-     * We collaborate with Ruby community and other communities. For example, we use Apache Arrow that is shared with many languages and join Apache Arrow development to share benefits.
+     * We collaborate with the Ruby community and other communities. For example, we use Apache Arrow that is shared with many languages and we join in Apache Arrow development to share benefits.
 
-  2. Acting than blaming
+  2. Acting rather than blaming
 
-     * We spend our time to write codes, test, write documentations, introduce our works, give some feedback to other projects and so on than to blame the current our situation (Python may have many good tools than Ruby), the current some library implementations and so on.
+     * We spend our time writing code, writing tests, writing documentations, introducing our work to others, giving feedback to other projects and so on--rather than blaming the current situation (Python may have many more good tools than Ruby), blaming some current library implementations and so on.
 
-  3. Continuous small works than a temporary big work
+  3. Continuous, iterative progress rather than a short, big project
 
-     * We may need many works to do many data processing tasks with Ruby. We need to work continuously to archive complete tools for data processing. So continuous works are more important than a temporary work for us.
+     * We may need a diverse set of components to do many data processing tasks with Ruby. We need to work continuously to achieve complete tools for data processing. So steady progress is more important than a short sprint for us.
 
-  4. The current lack of knowledge isn't matter
+  4. The current lack of knowledge doesn't matter
 
-     * We may need knowledge about mathematics, statistics, linear algebras and so on to implement fast tools. But we don't require them when someone joins us. Because we can learn about them while we work. We can use existing fast implementations and learn from existing fast implementations.
+     * We may need knowledge about mathematics, statistics, linear algebras and so on to implement fast tools. But we don't require them when someone joins us. We can learn about them while we work. We can use existing fast implementations and learn from existing fast implementations.
 
-  5. Ignore blames from outsiders
+  5. Ignore criticism from outsiders
 
-     * We may take a long time to archive complete tools for data processing. Some outsiders may blame us until the time. We ignore the blames. We don't have time to process them. :-)
+     * We may take a long time to achieve complete tools for data processing. Some outsiders may criticize us until the time. We should ignore the blame. We don't have time to worry about them. :-)
 
   6. Fun!
 
