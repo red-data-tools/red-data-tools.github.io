@@ -59,6 +59,8 @@ In alphabetical order:
 
   * [Red Arrow Numo::NArray][red-arrow-numo-narray]: Ruby library that provides conversion methods between Red Arrow and [Numo::NArray][numo-narray].
 
+  * [Red Arrow PyCall][red-arrow-pycall]: Ruby library that provides conversion methods between Red Arrow and [pyarrow][pyarrow] in [PyCall][pycall].
+
   * [Red Arrow][red-arrow]: Ruby bindings of [Apache Arrow][apache-arrow].
 
 [apache-arrow]:https://arrow.apache.org/
@@ -75,5 +77,8 @@ In alphabetical order:
 [red-arrow-gsl]:https://github.com/red-data-tools/red-arrow-gsl
 [red-arrow-nmatrix]:https://github.com/red-data-tools/red-arrow-nmatrix
 [red-arrow-numo-narray]:https://github.com/red-data-tools/red-arrow-numo-narray
+[red-arrow-pycall]:https://github.com/red-data-tools/red-arrow-pycall
+[pyarrow]:http://arrow.apache.org/docs/python/
+[pycall]:https://github.com/mrkn/pycall
 [red-arrow]:https://github.com/red-data-tools/red-arrow
 [ruby-gsl]:https://github.com/SciRuby/rb-gsl

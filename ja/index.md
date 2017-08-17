@@ -59,6 +59,8 @@ Red Data ToolsはRuby用のデータ処理ツールを提供するプロジェ�
 
   * [Red Arrow Numo::NArray][red-arrow-numo-narray]：Red Arrowと[Numo::NArray][numo-narray]間の変換メソッドを提供するライブラリー。
 
+  * [Red Arrow PyCall][red-arrow-pycall]：Red Arrowと[PyCall][pycall]経由での[pyarrow][pyarrow]間の変換メソッドを提供するライブラリー。
+
   * [Red Arrow][red-arrow]：[Apache Arrow][apache-arrow]のRubyバインディング。
 
 [apache-arrow]:https://arrow.apache.org/
@@ -75,5 +77,8 @@ Red Data ToolsはRuby用のデータ処理ツールを提供するプロジェ�
 [red-arrow-gsl]:https://github.com/red-data-tools/red-arrow-gsl
 [red-arrow-nmatrix]:https://github.com/red-data-tools/red-arrow-nmatrix
 [red-arrow-numo-narray]:https://github.com/red-data-tools/red-arrow-numo-narray
+[red-arrow-pycall]:https://github.com/red-data-tools/red-arrow-pycall
+[pyarrow]:http://arrow.apache.org/docs/python/
+[pycall]:https://github.com/mrkn/pycall
 [red-arrow]:https://github.com/red-data-tools/red-arrow
 [ruby-gsl]:https://github.com/SciRuby/rb-gsl
