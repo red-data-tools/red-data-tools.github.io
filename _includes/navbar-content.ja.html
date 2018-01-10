@@ -8,21 +8,23 @@
             aria-label="ナビゲーションをトグル">
       <span></span>
     </button>
-    <a href="/">{{ site.title }}</a>
+    <a href="/ja/">{{ site.title }}</a>
 
     <div id="navigation-bar-content">
       <ul>
+        <li><a href="/ja/blog/">ブログ</a></li>
         <li><a href="/{{ relative_path }}">English</a></li>
         {% if page.upper_level != null %}
           <li><a href="{{ page.upper_level }}"><i class="fa fa-arrow-circle-up"></i> 1階層上へ</a></li>
         {% elsif relative_path != "" %}
           {% capture last_component %}{{ page.url | split:"/" | last }}{% endcapture %}
-          {% if last_component == "index.html" %}
+          {% capture last_character %}{{ page.url | slice: -1 }}{% endcapture %}
+          {% if last_component == "index.html" or last_character == "/" %}
             {% assign upper_level = "../" %}
           {% else %}
             {% assign upper_level = "./" %}
           {% endif %}
-          <li><a href="{{ upper_level }}"><i class="fa fa-arrow-circle-up"></i> Up one level</a></li>
+          <li><a href="{{ upper_level }}"><i class="fa fa-arrow-circle-up"></i> 1階層上へ</a></li>
         {% endif %}
         <li>
           <a href="https://github.com/red-data-tools"><i class="fa fa-github"></i> GitHub</a>

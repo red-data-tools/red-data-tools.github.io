@@ -20,16 +20,32 @@ sass:
 
 defaults:
   - scope:
-      path: "ja"
+      path: ja
+      type: posts
+    values:
+      path_prefix: /ja/blog/
+      layout: post
+      language: ja
+      country: JP
+  - scope:
+      path: ja
     values:
       path_prefix: /ja/
-      layout: "base"
+      layout: base
       language: ja
       country: JP
   - scope:
       path: ""
+      type: posts
+    values:
+      path_prefix: /blog/
+      layout: post
+      language: en
+      country: US
+  - scope:
+      path: ""
     values:
       path_prefix: /
-      layout: "base"
+      layout: base
       language: en
       country: US

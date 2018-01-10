@@ -64,6 +64,10 @@ ul.other-languages li:last-child:after {
   content: "";
 }
 
+#content {
+  @extend .container;
+}
+
 table {
   @extend .table;
   @extend .table-striped;
