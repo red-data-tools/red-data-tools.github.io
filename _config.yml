@@ -1,7 +1,7 @@
 title: Red Data Tools
 markdown: kramdown
 highlighter: rouge
-copyright_year: 2017
+copyright_year: 2017-2018
 exclude:
   - "README.md"
   - "Rakefile"
