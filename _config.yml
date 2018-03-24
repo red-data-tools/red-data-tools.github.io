@@ -11,6 +11,8 @@ description:
   en: "Data processing with Ruby!"
   ja: "Rubyでデータ処理！"
 
+permalink: "/:categories/:year-:month-:day-:title:output_ext"
+
 kramdown:
   input: GFM
   smart_quotes: ["apos", "apos", "quot", "quot"]
