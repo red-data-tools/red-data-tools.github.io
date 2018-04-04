@@ -1,6 +1,5 @@
 ---
 title: Red Data Toolsブログ
-upper_level: /ja/blog/
 ---
 
 # Red Data Toolsブログ

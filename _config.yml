@@ -24,6 +24,7 @@ defaults:
       type: posts
     values:
       path_prefix: /ja/blog/
+      upper_level: /ja/blog/
       layout: post
       language: ja
       country: JP
@@ -39,6 +40,7 @@ defaults:
       type: posts
     values:
       path_prefix: /blog/
+      upper_level: /blog/
       layout: post
       language: en
       country: US
