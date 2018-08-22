@@ -49,6 +49,8 @@ Red Data ToolsはRuby用のデータ処理ツールを提供するプロジェ�
 
   * [Arrow packages][arrow-packages]：Debian GNU/Linux、Ubuntu、CentOS向けの[Apache Arrow][apache-arrow]関連のパッケージ。
 
+  * [Charty][charty]: 簡単にデータを可視化できるRubyライブラリー。
+
   * [Jekyll Jupyter Notebook plugin][jekyll-jupyter-notebook-plugin]：[Jupyter][jupyter] notebookを使うための[Jekyll][jekyll]のプラグイン。
 
   * [Parquet GLib][parquet-glib]：言語バインディングのための[Apache Parquet C++][apache-parquet-c++]のラッパーライブラリー。
@@ -63,9 +65,13 @@ Red Data ToolsはRuby用のデータ処理ツールを提供するプロジェ�
 
   * [Red Arrow][red-arrow]：[Apache Arrow][apache-arrow]のRubyバインディング。
 
+  * [Red Chainer][red-chainer]：Pythonの[Chainer][chainer]をRubyに移植したニューラルネットワーク用のフレキシブルなフレームワーク。
+
 [apache-arrow]:https://arrow.apache.org/
 [apache-parquet-c++]:https://github.com/apache/parquet-cpp
 [arrow-packages]:https://github.com/red-data-tools/arrow-packages
+[chainer]:https://chainer.org/
+[charty]:https://github.com/red-data-tools/charty
 [gitter-en]:https://gitter.im/red-data-tools/en
 [gitter-ja]:https://gitter.im/red-data-tools/ja
 [jekyll-jupyter-notebook-plugin]:https://github.com/red-data-tools/jekyll-jupyter-notebook
@@ -74,11 +80,12 @@ Red Data ToolsはRuby用のデータ処理ツールを提供するプロジェ�
 [nmatrix]:https://github.com/SciRuby/nmatrix
 [numo-narray]:https://ruby-numo.github.io/narray/
 [parquet-glib]:https://github.com/red-data-tools/parquet-glib
+[pyarrow]:http://arrow.apache.org/docs/python/
+[pycall]:https://github.com/mrkn/pycall
 [red-arrow-gsl]:https://github.com/red-data-tools/red-arrow-gsl
 [red-arrow-nmatrix]:https://github.com/red-data-tools/red-arrow-nmatrix
 [red-arrow-numo-narray]:https://github.com/red-data-tools/red-arrow-numo-narray
 [red-arrow-pycall]:https://github.com/red-data-tools/red-arrow-pycall
-[pyarrow]:http://arrow.apache.org/docs/python/
-[pycall]:https://github.com/mrkn/pycall
 [red-arrow]:https://github.com/red-data-tools/red-arrow
+[red-chainer]:https://github.com/red-data-tools/red-chainer
 [ruby-gsl]:https://github.com/SciRuby/rb-gsl

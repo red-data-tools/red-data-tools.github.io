@@ -49,6 +49,8 @@ In alphabetical order:
 
   * [Arrow packages][arrow-packages]: [Apache Arrow][apache-arrow] related packages for Debian GNU/Linux, Ubuntu and CentOS.
 
+  * [Charty][charty]: Ruby library for visualizing your data in a simple way.
+
   * [Jekyll Jupyter Notebook plugin][jekyll-jupyter-notebook-plugin]: [Jekyll][jekyll] plugin to use [Jupyter][jupyter] notebook.
 
   * [Parquet GLib][parquet-glib]: Wrapper library for [Apache Parquet C++][apache-parquet-c++] for language bindings.
@@ -62,17 +64,14 @@ In alphabetical order:
   * [Red Arrow PyCall][red-arrow-pycall]: Ruby library that provides conversion methods between Red Arrow and [pyarrow][pyarrow] in [PyCall][pycall].
 
   * [Red Arrow][red-arrow]: Ruby bindings of [Apache Arrow][apache-arrow].
-  
-  * [Red Chainer][red-chainer]: A flexible framework for neural network which ported python's [Chainer](https://chainer.org/) with Ruby.
-  
-  * [Charty][charty]: Ruby library for visualizing your data in a simple way.
 
-
+  * [Red Chainer][red-chainer]: A flexible framework for neural network which ported Python's [Chainer][chainer] with Ruby.
 
 [apache-arrow]:https://arrow.apache.org/
 [apache-parquet-c++]:https://github.com/apache/parquet-cpp
 [arrow-packages]:https://github.com/red-data-tools/arrow-packages
-[charty]:
+[chainer]:https://chainer.org/
+[charty]:https://github.com/red-data-tools/charty
 [gitter-en]:https://gitter.im/red-data-tools/en
 [gitter-ja]:https://gitter.im/red-data-tools/ja
 [jekyll-jupyter-notebook-plugin]:https://github.com/red-data-tools/jekyll-jupyter-notebook
@@ -81,12 +80,12 @@ In alphabetical order:
 [nmatrix]:https://github.com/SciRuby/nmatrix
 [numo-narray]:https://ruby-numo.github.io/narray/
 [parquet-glib]:https://github.com/red-data-tools/parquet-glib
+[pyarrow]:http://arrow.apache.org/docs/python/
+[pycall]:https://github.com/mrkn/pycall
 [red-arrow-gsl]:https://github.com/red-data-tools/red-arrow-gsl
 [red-arrow-nmatrix]:https://github.com/red-data-tools/red-arrow-nmatrix
 [red-arrow-numo-narray]:https://github.com/red-data-tools/red-arrow-numo-narray
 [red-arrow-pycall]:https://github.com/red-data-tools/red-arrow-pycall
-[pyarrow]:http://arrow.apache.org/docs/python/
-[pycall]:https://github.com/mrkn/pycall
 [red-arrow]:https://github.com/red-data-tools/red-arrow
 [red-chainer]:https://github.com/red-data-tools/red-chainer
 [ruby-gsl]:https://github.com/SciRuby/rb-gsl
