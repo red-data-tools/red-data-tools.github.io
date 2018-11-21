@@ -86,6 +86,6 @@ In alphabetical order:
 [red-arrow-nmatrix]:https://github.com/red-data-tools/red-arrow-nmatrix
 [red-arrow-numo-narray]:https://github.com/red-data-tools/red-arrow-numo-narray
 [red-arrow-pycall]:https://github.com/red-data-tools/red-arrow-pycall
-[red-arrow]:https://github.com/red-data-tools/red-arrow
+[red-arrow]:https://github.com/apache/arrow/tree/master/ruby/red-arrow
 [red-chainer]:https://github.com/red-data-tools/red-chainer
 [ruby-gsl]:https://github.com/SciRuby/rb-gsl
