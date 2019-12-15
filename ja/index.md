@@ -51,6 +51,8 @@ Red Data ToolsはRuby用のデータ処理ツールを提供するプロジェ�
 
   * [Charty][charty]: 簡単にデータを可視化できるRubyライブラリー。
 
+  * [GR.rb][gr-rb]: グラフ描画ライブラリ[GR][gr]のRubyバインディング。
+
   * [Jekyll Jupyter Notebook plugin][jekyll-jupyter-notebook-plugin]：[Jupyter][jupyter] notebookを使うための[Jekyll][jekyll]のプラグイン。
 
   * [Parquet GLib][parquet-glib]：言語バインディングのための[Apache Parquet C++][apache-parquet-c++]のラッパーライブラリー。
@@ -74,6 +76,8 @@ Red Data ToolsはRuby用のデータ処理ツールを提供するプロジェ�
 [charty]:https://github.com/red-data-tools/charty
 [gitter-en]:https://gitter.im/red-data-tools/en
 [gitter-ja]:https://gitter.im/red-data-tools/ja
+[gr]:https://github.com/sciapp/gr
+[gr-rb]:https://github.com/red-data-tools/GR.rb
 [jekyll-jupyter-notebook-plugin]:https://github.com/red-data-tools/jekyll-jupyter-notebook
 [jekyll]:https://jekyllrb.com/
 [jupyter]:https://jupyter.org/
