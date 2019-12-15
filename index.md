@@ -51,6 +51,8 @@ In alphabetical order:
 
   * [Charty][charty]: Ruby library for visualizing your data in a simple way.
 
+  * [GR.rb][gr-rb]: Ruby bindings for the [GR][gr] plotting library.
+
   * [Jekyll Jupyter Notebook plugin][jekyll-jupyter-notebook-plugin]: [Jekyll][jekyll] plugin to use [Jupyter][jupyter] notebook.
 
   * [Parquet GLib][parquet-glib]: Wrapper library for [Apache Parquet C++][apache-parquet-c++] for language bindings.
@@ -74,6 +76,8 @@ In alphabetical order:
 [charty]:https://github.com/red-data-tools/charty
 [gitter-en]:https://gitter.im/red-data-tools/en
 [gitter-ja]:https://gitter.im/red-data-tools/ja
+[gr]:https://github.com/sciapp/gr
+[gr-rb]:https://github.com/red-data-tools/GR.rb
 [jekyll-jupyter-notebook-plugin]:https://github.com/red-data-tools/jekyll-jupyter-notebook
 [jekyll]:https://jekyllrb.com/
 [jupyter]:https://jupyter.org/
