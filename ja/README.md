@@ -4,7 +4,7 @@ This is the source of https://red-data-tools.github.io/ .
 
 ## License
 
-Copyright (C) 2017 Red Data Tools
+Copyright (C) 2017-2020 Red Data Tools
 
 ### Texts
 

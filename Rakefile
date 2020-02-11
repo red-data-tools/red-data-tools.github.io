@@ -1,6 +1,6 @@
 # -*- ruby -*-
 #
-# Copyright (C) 2017  Red Data Tools
+# Copyright (C) 2017-2020  Red Data Tools
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
