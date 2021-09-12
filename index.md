@@ -69,6 +69,8 @@ In alphabetical order:
 
   * [Red Chainer][red-chainer]: A flexible framework for neural network which ported Python's [Chainer][chainer] with Ruby.
 
+  * [Red Datasets][red-datasets]: Example open datasets commonly used for machine learning collected in a Ruby gem for easy use in projects.
+
 [apache-arrow]:https://arrow.apache.org/
 [apache-parquet-c++]:https://github.com/apache/parquet-cpp
 [arrow-packages]:https://github.com/red-data-tools/arrow-packages
@@ -92,4 +94,5 @@ In alphabetical order:
 [red-arrow-pycall]:https://github.com/red-data-tools/red-arrow-pycall
 [red-arrow]:https://github.com/apache/arrow/tree/master/ruby/red-arrow
 [red-chainer]:https://github.com/red-data-tools/red-chainer
+[red-datasets]:https://github.com/red-data-tools/red-datasets
 [ruby-gsl]:https://github.com/SciRuby/rb-gsl
