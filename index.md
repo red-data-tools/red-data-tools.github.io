@@ -19,7 +19,7 @@ Our policies:
 
   2. Acting rather than blaming
 
-     * We spend our time writing code, writing tests, writing documentations, introducing our work to others, giving feedback to other projects and so on--rather than blaming the current situation (Python may have many more good tools than Ruby), blaming some current library implementations and so on.
+     * We spend our time writing code, writing tests, writing documentation, introducing our work to others, giving feedback to other projects and so on--rather than blaming the current situation (Python may have many more good tools than Ruby), blaming some current library implementations and so on.
 
   3. Continuous, iterative progress rather than a short, big project
 
@@ -27,11 +27,11 @@ Our policies:
 
   4. The current lack of knowledge doesn't matter
 
-     * We may need knowledge about mathematics, statistics, linear algebras and so on to implement fast tools. But we don't require them when someone joins us. We can learn about them while we work. We can use existing fast implementations and learn from existing fast implementations.
+     * We may also need knowledge about mathematics, statistics, linear algebra and other areas to implement fast tools. But we don't require them when someone joins us. We can learn about them while we work. We can use existing fast implementations and learn from existing fast implementations.
 
   5. Ignore criticism from outsiders
 
-     * We may take a long time to achieve complete tools for data processing. Some outsiders may criticize us until the time. We should ignore the blame. We don't have time to worry about them. :-)
+     * We may take a long time to achieve a complete set of tools for data processing. Some outsiders may criticize us until that time. We should ignore the blame. We don't have time to worry about them. :-)
 
   6. Fun!
 
@@ -69,6 +69,8 @@ In alphabetical order:
 
   * [Red Chainer][red-chainer]: A flexible framework for neural network which ported Python's [Chainer][chainer] with Ruby.
 
+  * [Red Datasets][red-datasets]: Example open datasets commonly used for machine learning collected in a Ruby gem for easy use in projects.
+
 [apache-arrow]:https://arrow.apache.org/
 [apache-parquet-c++]:https://github.com/apache/parquet-cpp
 [arrow-packages]:https://github.com/red-data-tools/arrow-packages
@@ -92,4 +94,5 @@ In alphabetical order:
 [red-arrow-pycall]:https://github.com/red-data-tools/red-arrow-pycall
 [red-arrow]:https://github.com/apache/arrow/tree/master/ruby/red-arrow
 [red-chainer]:https://github.com/red-data-tools/red-chainer
+[red-datasets]:https://github.com/red-data-tools/red-datasets
 [ruby-gsl]:https://github.com/SciRuby/rb-gsl
