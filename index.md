@@ -15,7 +15,7 @@ Our policies:
 
   1. Collaborate across the Ruby community
 
-     * We collaborate with the Ruby community and other communities. For example, we use Apache Arrow that is shared with many languages and we join in Apache Arrow development to share benefits.
+     * We collaborate with the Ruby community and other communities. For example, we use Apache Arrow, shared with many languages, and join in the development of Apache Arrow to share benefits.
 
   2. Acting rather than blaming
 
