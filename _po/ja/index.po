@@ -182,6 +182,8 @@ msgid ""
 "  * [Red Datasets][red-datasets]: Example open datasets commonly used for mach"
 "ine learning collected in a Ruby gem for easy use in projects."
 msgstr ""
+"  * [Red Datasets][red-datasets]: 機械学習でよく利用されるオープンなデータセットの例をプ"
+"ロジェクトで利用しやすいように提供するRuby gem。"
 
 msgid ""
 "[apache-arrow]:https://arrow.apache.org/\n"

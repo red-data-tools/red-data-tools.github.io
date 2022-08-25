@@ -69,7 +69,7 @@ Red Data ToolsはRuby用のデータ処理ツールを提供するプロジェ�
 
   * [Red Chainer][red-chainer]：Pythonの[Chainer][chainer]をRubyに移植したニューラルネットワーク用のフレキシブルなフレームワーク。
 
-  * [Red Datasets][red-datasets]: Example open datasets commonly used for machine learning collected in a Ruby gem for easy use in projects.
+  * [Red Datasets][red-datasets]: 機械学習でよく利用されるオープンなデータセットの例をプロジェクトで利用しやすいように提供するRuby gem。
 
 [apache-arrow]:https://arrow.apache.org/
 [apache-parquet-c++]:https://github.com/apache/parquet-cpp
