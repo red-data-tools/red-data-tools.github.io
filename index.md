@@ -76,8 +76,8 @@ In alphabetical order:
 [arrow-packages]:https://github.com/red-data-tools/arrow-packages
 [chainer]:https://chainer.org/
 [charty]:https://github.com/red-data-tools/charty
-[gitter-en]:https://gitter.im/red-data-tools/en
-[gitter-ja]:https://gitter.im/red-data-tools/ja
+[gitter-en]:https://app.gitter.im/#/room/#red-data-tools_en:gitter.im
+[gitter-ja]:https://app.gitter.im/#/room/#red-data-tools_ja:gitter.im
 [gr]:https://github.com/sciapp/gr
 [gr-rb]:https://github.com/red-data-tools/GR.rb
 [jekyll-jupyter-notebook-plugin]:https://github.com/red-data-tools/jekyll-jupyter-notebook
