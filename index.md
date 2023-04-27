@@ -57,6 +57,8 @@ In alphabetical order:
 
   * [Parquet GLib][parquet-glib]: Wrapper library for [Apache Parquet C++][apache-parquet-c++] for language bindings.
 
+  * [RedAmber][red_amber]: A data frame library in Ruby built on [Red Arrow][red-arrow].
+
   * [Red Arrow GSL][red-arrow-gsl]: Ruby library that provides conversion methods between Red Arrow and [Ruby/GSL][ruby-gsl].
 
   * [Red Arrow NMatrix][red-arrow-nmatrix]: Ruby library that provides conversion methods between Red Arrow and [NMatrix][nmatrix].
@@ -88,6 +90,7 @@ In alphabetical order:
 [parquet-glib]:https://github.com/red-data-tools/parquet-glib
 [pyarrow]:http://arrow.apache.org/docs/python/
 [pycall]:https://github.com/mrkn/pycall
+[red_amber]:https://github.com/red-data-tools/red_amber
 [red-arrow-gsl]:https://github.com/red-data-tools/red-arrow-gsl
 [red-arrow-nmatrix]:https://github.com/red-data-tools/red-arrow-nmatrix
 [red-arrow-numo-narray]:https://github.com/red-data-tools/red-arrow-numo-narray

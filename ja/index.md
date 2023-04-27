@@ -57,6 +57,8 @@ Red Data ToolsはRuby用のデータ処理ツールを提供するプロジェ�
 
   * [Parquet GLib][parquet-glib]：言語バインディングのための[Apache Parquet C++][apache-parquet-c++]のラッパーライブラリー。
 
+  * [RedAmber][red_amber]: Rubyで書かれたデータフレームライブラリ。[Red Arrow][red-arrow]を利用している。
+
   * [Red Arrow GSL][red-arrow-gsl]：Red Arrowと[Ruby/GSL][ruby-gsl]間の変換メソッドを提供するRubyライブラリー。
 
   * [Red Arrow NMatrix][red-arrow-nmatrix]：Red Arrowと[NMatrix][nmatrix]間の変換メソッドを提供するRubyライブラリー。
@@ -88,6 +90,7 @@ Red Data ToolsはRuby用のデータ処理ツールを提供するプロジェ�
 [parquet-glib]:https://github.com/red-data-tools/parquet-glib
 [pyarrow]:http://arrow.apache.org/docs/python/
 [pycall]:https://github.com/mrkn/pycall
+[red_amber]:https://github.com/red-data-tools/red_amber
 [red-arrow-gsl]:https://github.com/red-data-tools/red-arrow-gsl
 [red-arrow-nmatrix]:https://github.com/red-data-tools/red-arrow-nmatrix
 [red-arrow-numo-narray]:https://github.com/red-data-tools/red-arrow-numo-narray
