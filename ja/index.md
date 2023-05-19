@@ -39,9 +39,9 @@ Red Data ToolsはRuby用のデータ処理ツールを提供するプロジェ�
 
 ## コミュニティー {#community}
 
-  * [Gitter上のチャットルーム（英語）][gitter-en]
+  * [Matrix上のチャットルーム（英語）][matrix-en]
 
-  * [Gitter上のチャットルーム（日本語）][gitter-ja]
+  * [Matrix上のチャットルーム（日本語）][matrix-ja]
 
 ## プロダクト {#products}
 
@@ -57,7 +57,7 @@ Red Data ToolsはRuby用のデータ処理ツールを提供するプロジェ�
 
   * [Parquet GLib][parquet-glib]：言語バインディングのための[Apache Parquet C++][apache-parquet-c++]のラッパーライブラリー。
 
-  * [RedAmber][red_amber]: Rubyで書かれたデータフレームライブラリ。[Red Arrow][red-arrow]を利用している。
+  * [RedAmber][red_amber]：[Red Arrow][red-arrow]上に実装されたデータフレームライブラリー。
 
   * [Red Arrow GSL][red-arrow-gsl]：Red Arrowと[Ruby/GSL][ruby-gsl]間の変換メソッドを提供するRubyライブラリー。
 
@@ -78,19 +78,18 @@ Red Data ToolsはRuby用のデータ処理ツールを提供するプロジェ�
 [arrow-packages]:https://github.com/red-data-tools/arrow-packages
 [chainer]:https://chainer.org/
 [charty]:https://github.com/red-data-tools/charty
-[gitter-en]:https://gitter.im/red-data-tools/en
-[gitter-ja]:https://gitter.im/red-data-tools/ja
-[gr]:https://github.com/sciapp/gr
 [gr-rb]:https://github.com/red-data-tools/GR.rb
+[gr]:https://github.com/sciapp/gr
 [jekyll-jupyter-notebook-plugin]:https://github.com/red-data-tools/jekyll-jupyter-notebook
 [jekyll]:https://jekyllrb.com/
 [jupyter]:https://jupyter.org/
+[matrix-en]:https://app.element.io/#/room/#red-data-tools_en:gitter.im
+[matrix-ja]:https://app.element.io/#/room/#red-data-tools_ja:gitter.im
 [nmatrix]:https://github.com/SciRuby/nmatrix
 [numo-narray]:https://ruby-numo.github.io/narray/
 [parquet-glib]:https://github.com/red-data-tools/parquet-glib
 [pyarrow]:http://arrow.apache.org/docs/python/
 [pycall]:https://github.com/mrkn/pycall
-[red_amber]:https://github.com/red-data-tools/red_amber
 [red-arrow-gsl]:https://github.com/red-data-tools/red-arrow-gsl
 [red-arrow-nmatrix]:https://github.com/red-data-tools/red-arrow-nmatrix
 [red-arrow-numo-narray]:https://github.com/red-data-tools/red-arrow-numo-narray
@@ -98,4 +97,5 @@ Red Data ToolsはRuby用のデータ処理ツールを提供するプロジェ�
 [red-arrow]:https://github.com/apache/arrow/tree/master/ruby/red-arrow
 [red-chainer]:https://github.com/red-data-tools/red-chainer
 [red-datasets]:https://github.com/red-data-tools/red-datasets
+[red_amber]:https://github.com/red-data-tools/red_amber
 [ruby-gsl]:https://github.com/SciRuby/rb-gsl

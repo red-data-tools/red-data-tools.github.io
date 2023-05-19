@@ -39,9 +39,9 @@ Our policies:
 
 ## Community {#community}
 
-  * [Chat room on Gitter (English)][gitter-en]
+  * [Chat room on Matrix (English)][matrix-en]
 
-  * [Chat room on Gitter (Japanese)][gitter-ja]
+  * [Chat room on Matrix (Japanese)][matrix-ja]
 
 ## Products {#products}
 
@@ -78,19 +78,18 @@ In alphabetical order:
 [arrow-packages]:https://github.com/red-data-tools/arrow-packages
 [chainer]:https://chainer.org/
 [charty]:https://github.com/red-data-tools/charty
-[gitter-en]:https://app.gitter.im/#/room/#red-data-tools_en:gitter.im
-[gitter-ja]:https://app.gitter.im/#/room/#red-data-tools_ja:gitter.im
-[gr]:https://github.com/sciapp/gr
 [gr-rb]:https://github.com/red-data-tools/GR.rb
+[gr]:https://github.com/sciapp/gr
 [jekyll-jupyter-notebook-plugin]:https://github.com/red-data-tools/jekyll-jupyter-notebook
 [jekyll]:https://jekyllrb.com/
 [jupyter]:https://jupyter.org/
+[matrix-en]:https://app.element.io/#/room/#red-data-tools_en:gitter.im
+[matrix-ja]:https://app.element.io/#/room/#red-data-tools_ja:gitter.im
 [nmatrix]:https://github.com/SciRuby/nmatrix
 [numo-narray]:https://ruby-numo.github.io/narray/
 [parquet-glib]:https://github.com/red-data-tools/parquet-glib
 [pyarrow]:http://arrow.apache.org/docs/python/
 [pycall]:https://github.com/mrkn/pycall
-[red_amber]:https://github.com/red-data-tools/red_amber
 [red-arrow-gsl]:https://github.com/red-data-tools/red-arrow-gsl
 [red-arrow-nmatrix]:https://github.com/red-data-tools/red-arrow-nmatrix
 [red-arrow-numo-narray]:https://github.com/red-data-tools/red-arrow-numo-narray
@@ -98,4 +97,5 @@ In alphabetical order:
 [red-arrow]:https://github.com/apache/arrow/tree/master/ruby/red-arrow
 [red-chainer]:https://github.com/red-data-tools/red-chainer
 [red-datasets]:https://github.com/red-data-tools/red-datasets
+[red_amber]:https://github.com/red-data-tools/red_amber
 [ruby-gsl]:https://github.com/SciRuby/rb-gsl
