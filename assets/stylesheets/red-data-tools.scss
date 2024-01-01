@@ -10,7 +10,7 @@
     @extend .navbar;
     @extend .navbar-light;
     @extend .navbar-expand-md;
-    @extend .bg-faded;
+    @extend .bg-light;
 
     > button {
       @extend .navbar-toggler;
