@@ -9,7 +9,7 @@
   nav {
     @extend .navbar;
     @extend .navbar-light;
-    @extend .navbar-toggleable-md;
+    @extend .navbar-expand-md;
     @extend .bg-faded;
 
     > button {
