@@ -14,7 +14,6 @@
 
     > button {
       @extend .navbar-toggler;
-      @extend .navbar-toggler-right;
 
       > span {
         @extend .navbar-toggler-icon;
