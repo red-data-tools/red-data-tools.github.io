@@ -5,6 +5,8 @@
 
 #navigation-bar {
   @extend .container;
+  padding-top: $navbar-padding-y;
+  padding-bottom: $navbar-padding-y;
 
   nav {
     @extend .navbar;
