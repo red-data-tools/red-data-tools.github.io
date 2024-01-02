@@ -18,7 +18,7 @@ Copyright (C) 2017 Red Data Tools
 
 #### Bootstrap
 
-Copyright 2011-2017 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+Copyright 2011-2022 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
 
 Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
 
