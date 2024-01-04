@@ -5,16 +5,17 @@
 
 #navigation-bar {
   @extend .container;
+  padding-top: $navbar-padding-y;
+  padding-bottom: $navbar-padding-y;
 
   nav {
     @extend .navbar;
     @extend .navbar-light;
-    @extend .navbar-toggleable-md;
-    @extend .bg-faded;
+    @extend .navbar-expand-md;
+    @extend .bg-light;
 
     > button {
       @extend .navbar-toggler;
-      @extend .navbar-toggler-right;
 
       > span {
         @extend .navbar-toggler-icon;
