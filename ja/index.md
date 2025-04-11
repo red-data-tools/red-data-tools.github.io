@@ -43,6 +43,14 @@ Red Data ToolsはRuby用のデータ処理ツールを提供するプロジェ�
 
   * [Matrix上のチャットルーム（日本語）][matrix-ja]
 
+## ライブオンライン開発 {#live-online-developement}
+
+2022年からほぼ毎週30分、Red Data Toolsメンバーが「Red Data Tools開発者に聞け！」というタイトルでライブオンライン開発をしています。過去の開発の様子はYouTubeにアーカイブされています。
+
+  * [Red Data Tools開発者に聞け！][hear-from-red-data-tools-developers]
+
+リアルタイムで視聴したい場合は[コミュニティー](#community)にあるチャットルームで最新情報をゲットしてください！
+
 ## プロダクト {#products}
 
 アルファベット順：
@@ -85,6 +93,7 @@ Red Data ToolsはRuby用のデータ処理ツールを提供するプロジェ�
 [jupyter]:https://jupyter.org/
 [matrix-en]:https://app.element.io/#/room/#red-data-tools_en:gitter.im
 [matrix-ja]:https://app.element.io/#/room/#red-data-tools_ja:gitter.im
+[hear-from-red-data-tools-developers]:https://www.youtube.com/playlist?list=PLKb0MEIU7gvTj2_vQJMUK6HUu_R6V9oX5
 [nmatrix]:https://github.com/SciRuby/nmatrix
 [numo-narray]:https://ruby-numo.github.io/narray/
 [parquet-glib]:https://github.com/red-data-tools/parquet-glib
