@@ -83,8 +83,8 @@ In alphabetical order:
 [jekyll-jupyter-notebook-plugin]:https://github.com/red-data-tools/jekyll-jupyter-notebook
 [jekyll]:https://jekyllrb.com/
 [jupyter]:https://jupyter.org/
-[matrix-en]:https://app.element.io/#/room/#red-data-tools_en:gitter.im
-[matrix-ja]:https://app.element.io/#/room/#red-data-tools_ja:gitter.im
+[matrix-en]:https://app.element.io/#/room/#red-data-tools-en:matrix.org
+[matrix-ja]:https://app.element.io/#/room/#red-data-tools-ja:matrix.org
 [nmatrix]:https://github.com/SciRuby/nmatrix
 [numo-narray]:https://ruby-numo.github.io/narray/
 [parquet-glib]:https://github.com/red-data-tools/parquet-glib

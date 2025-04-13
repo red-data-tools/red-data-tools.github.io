@@ -91,8 +91,8 @@ Red Data ToolsはRuby用のデータ処理ツールを提供するプロジェ�
 [jekyll-jupyter-notebook-plugin]:https://github.com/red-data-tools/jekyll-jupyter-notebook
 [jekyll]:https://jekyllrb.com/
 [jupyter]:https://jupyter.org/
-[matrix-en]:https://app.element.io/#/room/#red-data-tools_en:gitter.im
-[matrix-ja]:https://app.element.io/#/room/#red-data-tools_ja:gitter.im
+[matrix-en]:https://app.element.io/#/room/#red-data-tools-en:matrix.org
+[matrix-ja]:https://app.element.io/#/room/#red-data-tools-ja:matrix.org
 [hear-from-red-data-tools-developers]:https://www.youtube.com/playlist?list=PLKb0MEIU7gvTj2_vQJMUK6HUu_R6V9oX5
 [nmatrix]:https://github.com/SciRuby/nmatrix
 [numo-narray]:https://ruby-numo.github.io/narray/
